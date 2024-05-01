@@ -4,11 +4,11 @@
 }
 
 .main{
-    width: 350vw;
+    width: 100%;
     background-image:url("flowerbg.jpg");
    
     background-size: cover;
-    height: 350vh;
+    height: 100vh;
 }
 
 .navbar{
